@@ -1,0 +1,15 @@
+E:\myProject\SalesAndFinanceBackend\BoilerPlate.Application\bin\Debug\net8.0\BoilerPlate.Application.deps.json
+E:\myProject\SalesAndFinanceBackend\BoilerPlate.Application\bin\Debug\net8.0\BoilerPlate.Application.dll
+E:\myProject\SalesAndFinanceBackend\BoilerPlate.Application\bin\Debug\net8.0\BoilerPlate.Application.pdb
+E:\myProject\SalesAndFinanceBackend\BoilerPlate.Application\bin\Debug\net8.0\BoilerPlate.Domain.dll
+E:\myProject\SalesAndFinanceBackend\BoilerPlate.Application\bin\Debug\net8.0\BoilerPlate.Domain.pdb
+E:\myProject\SalesAndFinanceBackend\BoilerPlate.Application\obj\Debug\net8.0\BoilerPlate.Application.csproj.AssemblyReference.cache
+E:\myProject\SalesAndFinanceBackend\BoilerPlate.Application\obj\Debug\net8.0\BoilerPlate.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\myProject\SalesAndFinanceBackend\BoilerPlate.Application\obj\Debug\net8.0\BoilerPlate.Application.AssemblyInfoInputs.cache
+E:\myProject\SalesAndFinanceBackend\BoilerPlate.Application\obj\Debug\net8.0\BoilerPlate.Application.AssemblyInfo.cs
+E:\myProject\SalesAndFinanceBackend\BoilerPlate.Application\obj\Debug\net8.0\BoilerPlate.Application.csproj.CoreCompileInputs.cache
+E:\myProject\SalesAndFinanceBackend\BoilerPlate.Application\obj\Debug\net8.0\BoilerPl.FA00B2EE.Up2Date
+E:\myProject\SalesAndFinanceBackend\BoilerPlate.Application\obj\Debug\net8.0\BoilerPlate.Application.dll
+E:\myProject\SalesAndFinanceBackend\BoilerPlate.Application\obj\Debug\net8.0\refint\BoilerPlate.Application.dll
+E:\myProject\SalesAndFinanceBackend\BoilerPlate.Application\obj\Debug\net8.0\BoilerPlate.Application.pdb
+E:\myProject\SalesAndFinanceBackend\BoilerPlate.Application\obj\Debug\net8.0\ref\BoilerPlate.Application.dll
